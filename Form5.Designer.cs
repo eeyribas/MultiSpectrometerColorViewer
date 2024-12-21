@@ -1,5 +1,5 @@
 ﻿
-namespace MultiSpectrometerView
+namespace MultiSpectrometerColorViewer
 {
     partial class Form5
     {

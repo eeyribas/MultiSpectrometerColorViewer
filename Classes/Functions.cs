@@ -10,7 +10,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace MultiSpectrometerView.Classes
+namespace MultiSpectrometerColorViewer.Classes
 {
     class Functions
     {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MultiSpectrometerView.Classes
+namespace MultiSpectrometerColorViewer.Classes
 {
     class Parameters
     {

@@ -1,4 +1,4 @@
-﻿using MultiSpectrometerView.Classes;
+﻿using MultiSpectrometerColorViewer.Classes;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,7 +10,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MultiSpectrometerView
+namespace MultiSpectrometerColorViewer
 {
     public partial class Form4 : Form
     {
